@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 Hi, I'm Yun! I am a novice at Software Engineering. I love learning new technology and skills of web. I leaving in Taiwan now. I want to work at others country, talk a lot with all sort of people and know more about this world 😸.
 
 ## 🤓 My values
